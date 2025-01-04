@@ -9,7 +9,7 @@ Multi-file editor with several cool features.
 - Convert text to webpage
 - Open files
 - Save files
-- Wrap / Unwrap
+- Wrap / Unwrap text
 - Increases / Decreases font size
 
 ## Screenshot
